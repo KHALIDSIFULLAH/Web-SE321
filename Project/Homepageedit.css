@@ -1,0 +1,21 @@
+.carousel-item{
+	height:450px;
+	
+}
+.carousel-img-1{
+	background:url('headphone1.jpg');
+	background-size:cover;
+}
+.navbar{
+	border-bottom:3px solid blue;
+	
+}
+.background{
+	background-image:url('background.jpg');
+	background-size:cover;
+	height:100%;
+	width:100%;
+	color:blue;
+	
+	
+}

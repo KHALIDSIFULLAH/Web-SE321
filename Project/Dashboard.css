@@ -1,0 +1,8 @@
+.nav1{
+	border-bottom:3px solid blue;	
+}
+main{
+	border: 3px solid red;
+	position: relative;
+	top: 120px;
+}
